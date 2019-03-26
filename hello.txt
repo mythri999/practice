@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0C2C-4B31
+
+ Directory of C:\Users\Mythri\Desktop\practicegit
+
+26-03-2019  11:12    <DIR>          .
+26-03-2019  11:12    <DIR>          ..
+26-03-2019  11:12                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,389,386,240 bytes free
